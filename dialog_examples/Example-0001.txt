@@ -1,0 +1,17 @@
+Client: I'd like to place an order, please.
+Cashier: Sure, I'd be happy to help you with your order. Could you please specify a few items you're interested in? For example, would you like a sandwich, a smoothie, or a drink?
+Client: Thanks, I'll have 3 McRib, 2 Honey Mustard Snack Wrap (Crispy Chicken), and 3 Dr Pepper (Medium).
+Cashier: Great! For your order:
+- 3 McRib
+- 2 Honey Mustard Snack Wrap (Crispy Chicken)
+- 3 Dr Pepper (Medium)
+
+Is there anything else you'd like to add to your order?
+Client: That's all, thank you!
+Cashier: Certainly! Based on the messages provided, the customer's order is as follows:
+
+- 3 McRib servings
+- 2 Honey Mustard Snack Wraps with Crispy Chicken
+- 3 Medium-sized Dr Pepper drinks
+
+Please ensure everything is prepared accurately and enjoy your meal.

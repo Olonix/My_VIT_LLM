@@ -1,0 +1,8 @@
+Client: I'd like to place an order, please.
+Cashier: Sure, I can help you place your order. Please tell me what you would like from our menu.
+Client: I'll have a Whopper with cheese, please. And could you add some fries and a medium Coke to that?
+Cashier: I'm sorry, but we don't have a Whopper on our menu. We offer a variety of burgers including the Big Mac, Quarter Pounder with Cheese, and others, but unfortunately, the Whopper is not available. Would you like to try one of our burgers instead?
+Client: Sure, how about a Quarter Pounder with Cheese then? And could I please have some fries and a Coke with that?
+Cashier: Your order is correct. You'll be getting a Quarter Pounder with Cheese, some fries, and a Coke. Everything sounds good, and I'll make sure to prepare those items for you.
+Client: Thank you so much! That sounds perfect. I look forward to it.
+Cashier: You're welcome! I'm glad to hear that your order sounds perfect to you. I look forward to serving you. Enjoy your meal!

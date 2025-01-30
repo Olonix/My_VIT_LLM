@@ -1,0 +1,8 @@
+Client: I'd like to place an order.
+Cashier: Sure, I can help you with that. What would you like to order?
+Client: I'll have one Sausage Biscuit with Egg, please.
+Cashier: Great choice! That will be one Sausage Biscuit with Egg. Is there anything else you'd like to add to your order?
+Client: I'd also like to get 2 Sausage Burritos, please.
+Cashier: Sure thing! That will be two Sausage Burritos added to your order. Is there anything else you'd like to add?
+Client: That's all, thank you!
+Cashier: You've ordered one Sausage Biscuit with Egg and two Sausage Burritos. Enjoy your meal!

@@ -1,0 +1,6 @@
+Client: I'd like to place an order, please.
+Cashier: Sure, I can help you place your order. Please tell me what you would like from our menu.
+Client: I'll start with a classic combo. Can I get a Whopper with large fries and a vanilla milkshake?
+Cashier: I'm sorry, but we don't have a Whopper on our menu. However, we do have a similar item called the Big Mac. Would you like that instead? For your sides, we can provide large fries, and for your dessert, we can offer a vanilla shake.
+Client: Absolutely, the Big Mac sounds great. And yes, I'd like large fries and a vanilla shake as well.
+Cashier: Your order is correct. You will be getting a Big Mac, large fries, and a vanilla shake. Enjoy your meal!

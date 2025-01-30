@@ -1,0 +1,8 @@
+Client: I'd like to place an order, please.
+Cashier: Sure, I can help you place your order. Please tell me what you would like from our menu.
+Client: I'll start with a Quarter Pounder, a large fries, and a vanilla milkshake.
+Cashier: Your order is a Quarter Pounder with Cheese, Large French Fries, and a Vanilla Shake. Is that correct?
+Client: Yes, that's right. Thank you.
+Cashier: Your order is a Quarter Pounder with Cheese, Large Fries, and a Vanilla Shake. Is that correct?
+Client: Yes, that's correct. Thank you for being so attentive.
+Cashier: Your order is confirmed: a Quarter Pounder with Cheese, Large Fries, and a Vanilla Shake. Enjoy your meal!
